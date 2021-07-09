@@ -1,7 +1,7 @@
 # JavaFTPServer
 
 ## Description
-The **JavaFTPServer** is a project that shows how to implement a FTP server using Apache MINA.
+Project that show how to implement a FTP server using Apache MINA.
 
 ## Technologies
 The project uses the following technologies:
